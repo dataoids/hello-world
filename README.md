@@ -4,6 +4,7 @@ The repository can contain a collection of simple "Hello World" programs, each d
 
 * `README.md`: contains instructions on how to use the repository and information about the different languages and frameworks available.
 * a folder or file per language or framework, each containing a simple "Hello World" program/programs that runs and displays "Hello, World!".
+* `.sh` or `.ps1`: Bash/PowerShell code to initialize the framework project files. [Optional]
 
 Depending on the languages and frameworks supported, the repository might include programs written in popular languages such as JavaScript, Python, Ruby, C++, C#, and Java. Additionally, it could include examples for various web frameworks such as Django, React, Angular, Vue.js, Express.js, Flask, and Spring.
 
