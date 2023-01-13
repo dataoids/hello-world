@@ -21,7 +21,7 @@ This is a high-level overview of the process, and you may encounter more complex
 ## Hello World
 
 For this repository, we have created a simple Django project named as `hello`. No additional apps, views or models are created in this repo. Make sure to change the directory to Django folder in your terminal before testing.
-Refer to the `init.ps1` file for initial setup. We can use the following the command to run the development server locally:
+Run the `init.ps1` file for initial setup. We can use the following the command to run the development server locally:
 
 `python manage.py runserver`
 
