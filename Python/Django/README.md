@@ -35,5 +35,5 @@ Refer to the `init.ps1` file for initial setup. We can use the following the com
 
 Open the below URL to access the django server:
 
-`http://127.0.0.1:8000/`
+http://127.0.0.1:8000/
 
