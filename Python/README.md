@@ -46,4 +46,4 @@ Once the virtual environment is activated, you will see the name of the virtual 
 
 You can install packages within the environment using pip and it will not affect the global packages. To deactivate the virtual environment, type "deactivate" in the command prompt or terminal.
 
-Additionally, you can also use conda to create and manage virtual environment, if you are familiar with that.
+Additionally, you can also use conda to create and manage virtual environment, if you are familiar with that. Make sure to change the directory to project folder in your terminal before running them.
