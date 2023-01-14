@@ -18,4 +18,4 @@ Airflow is widely used in data engineering and data science to handle data pipel
 
 Airflow is built using Python and it's easy to integrate with other tools and frameworks used in data engineering and data science, like Spark, Hive, Presto and many more.
 
-We can run the dag `hellow_world_dag` in any airflow environment.
+We can run the dag `hello_world_dag` in any airflow environment.
