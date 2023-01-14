@@ -17,7 +17,7 @@ The main features of Flask include:
 
 Flask is widely used to create web applications such as RESTful APIs, web dashboards, web services and many more. It's a great choice for small to medium-sized projects and for developers who want to get up and running quickly without having to learn a complex framework.
 
-Make sure to change the directory to Django folder in your terminal before testing.
+Make sure to change the directory to Flask folder in your terminal before testing.
 Run the `init.ps1` file for initial setup. We can use the following the command to run the development server locally:
 
 `python hello.py`
